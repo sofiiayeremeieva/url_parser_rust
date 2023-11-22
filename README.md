@@ -109,7 +109,7 @@ You can try URL with the port:
 
 `cargo run -- parse http://localhost:8888/tree/Desktop/uni`
 
-With th result:
+With the result:
 
 ```
 ParsedUrl {
