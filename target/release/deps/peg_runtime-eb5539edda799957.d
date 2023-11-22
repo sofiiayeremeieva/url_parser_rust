@@ -1,0 +1,10 @@
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII trimester/rust/url_parser_rust/target/release/deps/peg_runtime-eb5539edda799957.rmeta: /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs
+
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII trimester/rust/url_parser_rust/target/release/deps/libpeg_runtime-eb5539edda799957.rlib: /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs
+
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII trimester/rust/url_parser_rust/target/release/deps/peg_runtime-eb5539edda799957.d: /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs
+
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs:
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs:
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs:
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs:

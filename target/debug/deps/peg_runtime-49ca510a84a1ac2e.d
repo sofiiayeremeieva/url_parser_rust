@@ -1,0 +1,10 @@
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII trimester/rust/url_parser_rust/target/debug/deps/peg_runtime-49ca510a84a1ac2e.rmeta: /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs
+
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII trimester/rust/url_parser_rust/target/debug/deps/libpeg_runtime-49ca510a84a1ac2e.rlib: /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs
+
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII trimester/rust/url_parser_rust/target/debug/deps/peg_runtime-49ca510a84a1ac2e.d: /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs /Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs
+
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/lib.rs:
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/error.rs:
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/slice.rs:
+/Users/sophiayeremeeva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-runtime-0.8.2/str.rs:

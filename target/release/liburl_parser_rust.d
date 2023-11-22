@@ -1,0 +1,1 @@
+/Users/sophiayeremeeva/Desktop/uni/ukma/VII\ trimester/rust/url_parser_rust/target/release/liburl_parser_rust.rlib: /Users/sophiayeremeeva/Desktop/uni/ukma/VII\ trimester/rust/url_parser_rust/src/lib.rs
